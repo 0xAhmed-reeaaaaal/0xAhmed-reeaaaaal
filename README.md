@@ -2,9 +2,11 @@
 
 ### Backend Software Engineer | .NET & Systems Enthusiast | Open Source Contributor
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0xAhmed-reeaaaaal&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+<!-- Working Profile Views Badge via Shields.io -->
+![Profile Views](https://img.shields.io/badge/Profile_Views-0xAhmed--reeaaaaal-0e75b6?style=flat&logo=github)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=0xAhmed-reeaaaaal&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Working Alternative Stats Card (Replaces broken Trophy link) -->
+[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xAhmed-reeaaaaal&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I'm currently working on **Building ERP solutions & custom web applications with .NET Core and Frappe Framework & learning internal concepts**
 
