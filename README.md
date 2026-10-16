@@ -48,5 +48,4 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xAhmed-reeaaaaal&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=0xAhmed-reeaaaaal&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
