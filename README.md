@@ -1,10 +1,8 @@
 # Hi 👋, I'm Ahmed mohamed abdelraouf
 
 ### Backend Software Engineer | .NET & Systems Enthusias | open source contributer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xAhmed-reeaaaaal&label=Profile views&color=0e75b6&style=flat" alt="0xAhmed-reeaaaaal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xAhmed-reeaaaaal" alt="0xAhmed-reeaaaaal" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=0xAhmed-reeaaaaal&label=Profile%20views&color=0e75b6&style=flat)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=0xAhmed-reeaaaaal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I'm currently working on **Building ERP solutions & custom web applications with .NET Core and Frappe Framework & learning internal concepts**
 
